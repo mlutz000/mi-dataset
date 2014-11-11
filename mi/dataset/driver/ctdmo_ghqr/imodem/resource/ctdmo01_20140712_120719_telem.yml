@@ -1,0 +1,42 @@
+header:
+    particle_object: 'MULTIPLE'
+    particle_type: 'MULTIPLE'
+data:
+  - _index: 1
+    particle_object: CtdmoGhqrImodemMetadataInstrumentDataParticle
+    particle_type: ctdmo_ghqr_imodem_metadata
+    internal_timestamp: 1405163239.0
+    date_time_string: '20140712 120719'
+    instrument_serial_number_u32: 11477 
+    battery_voltage_main: 6.91
+    battery_voltage_lithium: 3.08
+    sample_number: 4143
+    mem_free: 555097
+    sample_interval: 60
+    pressure_range: 1450
+    num_samples: 62
+  - _index: 2
+    particle_object: CtdmoGhqrImodemInstrumentTelemeteredDataParticle
+    particle_type: ctdmo_ghqr_imodem_instrument
+    internal_timestamp: 3614151976
+    temperature: 353184
+    conductivity: 50001
+    pressure: 2789
+    ctd_time: 458478376
+  - _index: 3
+    particle_object: CtdmoGhqrImodemInstrumentTelemeteredDataParticle
+    particle_type: ctdmo_ghqr_imodem_instrument
+    internal_timestamp: 3614152039
+    temperature: 352990
+    conductivity: 50001
+    pressure: 2789
+    ctd_time: 458478439
+  - _index: 4
+    particle_object: CtdmoGhqrImodemInstrumentTelemeteredDataParticle
+    particle_type: ctdmo_ghqr_imodem_instrument
+    internal_timestamp: 3614152096
+    temperature: 353004
+    conductivity: 50001
+    pressure: 2789
+    ctd_time: 458478496
+  
